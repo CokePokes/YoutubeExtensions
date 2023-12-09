@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "OpenYoutube",
+        "description": "Der Anzeigename für die Erweiterung."
+    },
+    "extension_description": {
+        "message": "Zeigt eine In Youtube öffnen Meldung für sideloaded YT an",
+        "description": "Funktionsbeschreibung der Erweiterung."
+    }
+}
